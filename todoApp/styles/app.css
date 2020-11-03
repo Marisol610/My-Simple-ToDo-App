@@ -1,0 +1,100 @@
+
+html, body{
+    background-image: url(/img/AutumnWreath.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(187, 57, 118);
+    display: inline-block;         
+    height: 110vh;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+       
+}
+.navigation{
+    background-color: white;
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 20px 20px;
+}
+.header{
+    
+    color: rgb(73, 28, 2);
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}   
+
+.header p{
+ 
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+}
+
+.form {
+
+    background-color: rgb(235, 219, 208);
+    border-radius: 1%;
+    border: 6px dashed rgb(109, 10, 10);
+    border-style: double;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width:310px;
+    padding-bottom: 20px;
+}
+
+#todoText{
+    border:1px solid rgb(109, 10, 10);
+    font-size: 1.5rem;
+}
+
+#btnAdd{
+    border:1px solid rgb(109, 10, 10);
+    font-size: 1.5rem;
+}
+
+.list {
+    display: block;
+    background-color: rgb(235, 219, 208);
+    border-radius: 4px;
+    border: 1.5px solid rgb(109, 10, 10);
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    width:30%;
+    padding-top: 15px;
+
+
+}
+#set-reminder{
+    display: block;
+    background-color:rgb(44, 4, 4);
+    color: white;
+    float:bottom;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 375px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 20px 20px;    
+}
+
+
+
+
